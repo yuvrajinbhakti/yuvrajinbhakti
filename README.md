@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Singh Nain</h1>
-<h3 align="center">Personality who is always eager to help others and learn new things.</h3>
+<h3 align="center">Personality who is allways eager to help others and learn new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajinbhakti&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajinbhakti" /> </p>
 
@@ -15,13 +15,6 @@
 <p align="left">
 <a href="https://twitter.com/yuvrajsinghnain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuvrajsinghnain" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yuvraj singh nain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraj singh nain" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/revolutioniser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="revolutioniser" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/yuvraj_366" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yuvraj_366" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yuvraj2495_be21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yuvraj2495_be21" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/yuvraj_singh_nain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yuvraj_singh_nain" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yuvrajsinghnain03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yuvrajsinghnain03" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@yuvrajsinghnain03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@yuvrajsinghnain03" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/yuvrajsinghnain03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yuvrajsinghnain03" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
