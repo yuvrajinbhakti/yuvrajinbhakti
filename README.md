@@ -2,6 +2,7 @@
 <h3 align="center">Personality who is allways eager to help others and learn new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajinbhakti&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajinbhakti" /> </p>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fnews.mit.edu%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fnews_article__image_gallery%2Fpublic%2Fimages%2F202012%2FMIT-Coding-Brain-01-press_0.jpg%3Fitok%3DJKoUflf8&imgrefurl=https%3A%2F%2Fnews.mit.edu%2F2020%2Fbrain-reading-computer-code-1215&tbnid=9PwnQGCq4XtTbM&vet=12ahUKEwjwlZ7I4ND6AhXZ_TgGHceBBGIQMygHegUIARDyAQ..i&docid=sk4K05kgc6tTFM&w=899&h=600&q=code&ved=2ahUKEwjwlZ7I4ND6AhXZ_TgGHceBBGIQMygHegUIARDyAQ">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvrajinbhakti" alt="yuvrajinbhakti" /></a> </p>
 
