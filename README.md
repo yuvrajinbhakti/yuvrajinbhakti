@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/yuvrajsinghnain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuvrajsinghnain" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yuvraj-singh-nain-76715921b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraj-singh-nain-76715921b" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/yuvraj_366" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/yuvraj_366" height="30" width="40" /></a>
+<a href="[https://www.codechef.com/users/https://www.codechef.com/users/yuvraj2495](https://www.codechef.com/users/yuvraj2495)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/yuvraj_366" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/yuvrajsinghnain03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/yuvrajsinghnain03/" height="30" width="40" /></a>
 </p>
 
