@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvrajinbhakti" alt="yuvrajinbhakti" /></a> </p>
 
 - 🚀 I’m currently working as a **Frontend Engineering Intern at Razorpay**  
-- 📚 Learning **Next.js, Docker, Kubernetes, and advanced TypeScript**  
+- 📚 Learning **ThreeJs, Rust, GoLang, SpringBoot and AWS**  
 - 🤝 I’m looking for help with **high-paying remote jobs, open-source contributions, and internships**  
 - 👨‍💻 All of my projects are available at [https://github.com/yuvrajinbhakti](https://github.com/yuvrajinbhakti)  
 - 📫 How to reach me **yuvrajsinghnain03@gmail.com**  
-- 💬 Ask me about **JavaScript, React, TypeScript, MERN stack, and Docker**
+- 💬 Ask me about **JavaScript, React, TypeScript, MERN stack, Next.js, Docker, Kubernetes, and advanced TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
