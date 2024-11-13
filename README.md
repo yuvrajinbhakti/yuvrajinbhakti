@@ -10,7 +10,7 @@
 - 🤝 I’m looking for help with **high-paying remote jobs, open-source contributions, and internships**  
 - 👨‍💻 All of my projects are available at [https://github.com/yuvrajinbhakti](https://github.com/yuvrajinbhakti)  
 - 📫 How to reach me **yuvrajsinghnain03@gmail.com**  
-- 💬 Ask me about **JavaScript, React, TypeScript, MERN stack, Next.js, Docker, Kubernetes, and advanced TypeScript**
+- 💬 Ask me about **JavaScript, React, MERN stack, Next.js, Docker, Kubernetes, and advanced TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
