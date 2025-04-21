@@ -1,7 +1,7 @@
 <div align="center">
-  ![image](https://github.com/user-attachments/assets/de057039-b26b-4656-8195-5dfa6fb0273f)
-
+  <img src="https://via.placeholder.com/800x300.png?text=Yuvraj+Singh+Nain+%7C+Frontend+Engineer" alt="Developer Banner" width="800"/>
 </div>
+
 
 # <div align="center">👑 Yuvraj Singh Nain 👑</div>
 
