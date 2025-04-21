@@ -1,8 +1,70 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1024x350.png?text=Yuvraj+Singh+Nain+%7C+Frontend+Intern+%40Razorpay" alt="Developer Banner" width="100%" />
+  <svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027" />
+      <stop offset="50%" stop-color="#203a43" />
+      <stop offset="100%" stop-color="#2c5364" />
+    </linearGradient>
+    <linearGradient id="text-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f2f2f2" />
+      <stop offset="100%" stop-color="#ffffff" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background Rectangle -->
+  <rect width="1200" height="300" fill="url(#bg-gradient)" />
+  
+  <!-- Decorative code elements -->
+  <text x="40" y="40" font-family="monospace" font-size="14" fill="#6c757d" opacity="0.7">
+    const developer = {
+  </text>
+  <text x="40" y="60" font-family="monospace" font-size="14" fill="#6c757d" opacity="0.7">
+    name: "Your Name",
+  </text>
+  <text x="40" y="80" font-family="monospace" font-size="14" fill="#6c757d" opacity="0.7">
+    title: "Full Stack Developer",
+  </text>
+  <text x="40" y="100" font-family="monospace" font-size="14" fill="#6c757d" opacity="0.7">
+    skills: ["JavaScript", "React", "Node.js", "Python"]
+  </text>
+  <text x="40" y="120" font-family="monospace" font-size="14" fill="#6c757d" opacity="0.7">
+    };
+  </text>
+  
+  <!-- Main Name Text -->
+  <text x="600" y="150" font-family="Arial, sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="url(#text-gradient)">
+    Yuvraj Singh Nain
+  </text>
+  
+  <!-- Title/Role Text -->
+  <text x="600" y="190" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#cccccc">
+    Full Stack Developer
+  </text>
+  
+  <!-- Tagline -->
+  <text x="600" y="230" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#9aaab9">
+    Building elegant solutions to complex problems
+  </text>
+  
+  <!-- Decorative elements -->
+  <circle cx="950" cy="70" r="30" fill="#2563eb" opacity="0.5" />
+  <circle cx="990" cy="100" r="20" fill="#0284c7" opacity="0.6" />
+  <circle cx="950" cy="120" r="15" fill="#0ea5e9" opacity="0.7" />
+  
+  <!-- Code brackets decoration on right -->
+  <text x="1050" y="150" font-family="monospace" font-size="120" fill="#495057" opacity="0.4">{ }</text>
+  
+  <!-- Animated element (appears as fixed in SVG) -->
+  <rect x="40" y="240" width="80" height="6" rx="3" fill="#3b82f6" />
+  <rect x="130" y="240" width="60" height="6" rx="3" fill="#0284c7" />
+  <rect x="200" y="240" width="120" height="6" rx="3" fill="#0ea5e9" />
+</svg>
 </div>
 
-# <div align="center">👑 Yuvraj Singh Nain 👑</div>
+
+# <div align="center"> 👨‍💻 Yuvraj Singh Nain </div>
 
 <div align="center">
   <a href="https://twitter.com/yuvrajsinghnain"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
@@ -16,8 +78,7 @@
   <img src="https://komarev.com/ghpvc/?username=yuvrajinbhakti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </div>
 
-## <div align="center">💫 SUPREME DEVELOPER | CODING VIRTUOSO | TECHNICAL MASTER 💫</div>
-## <div align="center">🔥 Engineering Excellence | Continuous Innovation | Collaborative Growth 🔥</div>
+## <div align="center">💫 Engineering Excellence | Continuous Innovation | Collaborative Growth 🔥</div>
 
 ---
 
