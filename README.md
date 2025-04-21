@@ -1,5 +1,6 @@
 <div align="center">
-  ![image](https://github.com/user-attachments/assets/55e50a9b-c824-4a9f-86e7-cb5fca6f6292)
+  ![image](https://github.com/user-attachments/assets/de057039-b26b-4656-8195-5dfa6fb0273f)
+
 </div>
 
 # <div align="center">👑 Yuvraj Singh Nain 👑</div>
