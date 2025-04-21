@@ -114,12 +114,15 @@ const yuvraj = {
 
 ### 📌 Featured Projects
 <div align="center">
-  <a href="https://real-time-code-editor-codebuddy.onrender.com/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajinbhakti&repo=real-time-code-editor&theme=tokyonight" alt="Real-time Code Editor" />
-  </a>
-  <a href="https://yuvraj-singh-nain-portfolio.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajinbhakti&repo=portfolio&theme=tokyonight" alt="Portfolio" />
-  </a>
+  <div>
+    <h3>🌐 <a href="https://real-time-code-editor-codebuddy.onrender.com/">Real-time Code Editor</a></h3>
+    <p>Collaborative coding platform with real-time sync, syntax highlighting, and execution</p>
+  </div>
+  
+  <div>
+    <h3>💼 <a href="https://yuvraj-singh-nain-portfolio.vercel.app/">My Portfolio Website</a></h3>
+    <p>Interactive showcase of projects, skills, and professional journey</p>
+  </div>
 </div>
 
 ### 🤝 Let's Connect
