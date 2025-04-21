@@ -2,7 +2,7 @@
   <img src="https://api.placeholder.com/600/300" alt="Developer Banner"/>
 </div>
 
-# <div align="center">👨‍💻 Yuvraj Singh Nain</div>
+# <div align="center">👑 Yuvraj Singh Nain 👑</div>
 
 <div align="center">
   <a href="https://twitter.com/yuvrajsinghnain"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
@@ -16,8 +16,8 @@
   <img src="https://komarev.com/ghpvc/?username=yuvrajinbhakti&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </div>
 
-## <div align="center">💫 I AM THE BEST IN THIS UNIVERSE 💫</div>
-## <div align="center">💫 Engineering Excellence | Continuous Innovation | Collaborative Growth</div>
+## <div align="center">💫 SUPREME DEVELOPER | CODING VIRTUOSO | TECHNICAL MASTER 💫</div>
+## <div align="center">🔥 Engineering Excellence | Continuous Innovation | Collaborative Growth 🔥</div>
 
 ---
 
@@ -114,6 +114,9 @@ const yuvraj = {
 
 ### 📌 Featured Projects
 <div align="center">
+  <a href="https://real-time-code-editor-codebuddy.onrender.com/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajinbhakti&repo=real-time-code-editor&theme=tokyonight" alt="Real-time Code Editor" />
+  </a>
   <a href="https://yuvraj-singh-nain-portfolio.vercel.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajinbhakti&repo=portfolio&theme=tokyonight" alt="Portfolio" />
   </a>
