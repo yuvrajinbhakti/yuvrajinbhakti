@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://api.placeholder.com/600/300" alt="Developer Banner"/>
+  ![image](https://github.com/user-attachments/assets/55e50a9b-c824-4a9f-86e7-cb5fca6f6292)
 </div>
 
 # <div align="center">👑 Yuvraj Singh Nain 👑</div>
