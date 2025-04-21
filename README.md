@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x300.png?text=Yuvraj+Singh+Nain+%7C+Frontend+Engineer" alt="Developer Banner" width="800"/>
+  <img src="https://via.placeholder.com/1024x350.png?text=Yuvraj+Singh+Nain+%7C+Frontend+Intern+%40Razorpay" alt="Developer Banner" width="100%" />
 </div>
-
 
 # <div align="center">👑 Yuvraj Singh Nain 👑</div>
 
