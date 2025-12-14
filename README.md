@@ -66,7 +66,7 @@ const yuvraj: Developer = {
     "Node.js", "MERN Stack", "Three.js"
   ],
   currentlyLearning: [
-    "Rust", "GoLang", "SpringBoot", "AWS", 
+     "GoLang", "AWS", 
     "Microservices", "System Design"
   ],
   architecture: ["Microservices", "Event-Driven", "Serverless"],
