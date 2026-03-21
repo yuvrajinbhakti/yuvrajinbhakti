@@ -166,16 +166,7 @@
 
 ## 🚀 &nbsp;Featured Projects
 
-<div align="center">
-  <a href="https://real-time-code-editor-codebuddy.onrender.com/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajinbhakti&repo=realtime-code-editor&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117"/>
-  </a>
-  <a href="https://yuvraj-portfolio-reimagined.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajinbhakti&repo=portfolio&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117"/>
-  </a>
-</div>
 
-<br/>
 
 <div align="center">
   <table>
