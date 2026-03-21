@@ -152,14 +152,6 @@
 
 ---
 
-## 🏆 &nbsp;Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuvrajinbhakti&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
-</div>
-
----
-
 ## 🚀 &nbsp;Featured Projects
 
 <div align="center">
