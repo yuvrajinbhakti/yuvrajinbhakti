@@ -1,11 +1,11 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:03045e,25:023e8a,50:0077b6,75:0096c7,100:00b4d8&height=280&section=header&text=Yuvraj%20Singh%20Nain&fontSize=68&fontColor=ffffff&fontAlignY=45&desc=Frontend%20Engineer%20%40%20Razorpay%20%E2%80%A2%20Design%20Systems%20%E2%80%A2%20Performance%20At%20Scale&descSize=18&descColor=ade8f4&descAlignY=65&animation=twinkling&stroke=48cae4&strokeWidth=3" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,50:0077b6,100:00b4d8&height=230&section=header&text=Yuvraj%20Singh%20Nain&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=Frontend%20Engineer%20%40%20Razorpay%20%E2%80%A2%20Design%20Systems%20%E2%80%A2%20Performance%20At%20Scale&descSize=18&descColor=90e0ef&descAlignY=65&animation=fadeIn" />
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&repeat=true&width=620&height=60&lines=Frontend+Engineer+%40+Razorpay+%F0%9F%94%A5;Shipped+to+millions+of+users+%F0%9F%9A%80;Design+Systems+%7C+Microfrontends+%7C+Performance;1000%2B+DSA+Problems+Solved+%E2%9A%A1;Amazon+ML+Summer+School+2024+%F0%9F%8E%AF;Building+the+future%2C+one+PR+at+a+time+%F0%9F%94%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&repeat=true&width=850&height=50&lines=Frontend+Engineer+%40+Razorpay+%F0%9F%94%A5;Shipped+to+millions+of+users+%F0%9F%9A%80;Design+Systems+%7C+Microfrontends+%7C+Performance;1000%2B+DSA+Problems+Solved+%E2%9A%A1;Amazon+ML+Summer+School+2024+%F0%9F%8E%AF;Building+the+future%2C+one+PR+at+a+time+%F0%9F%94%A8" alt="Typing SVG" />
 </div>
 
 <br/>
