@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Frontend+Engineer+%40+Razorpay+%F0%9F%94%A5;Shipped+to+millions+of+users+%F0%9F%9A%80;Design+Systems+%7C+Microfrontends+%7C+DX;500%2B+DSA+Problems+Solved+%E2%9A%A1;Amazon+ML+Summer+School+2024+%F0%9F%8E%AF;GSoC+2026+%E2%86%92+Metaflow+UI+2.0+%F0%9F%8C%B1;Building+the+future%2C+one+PR+at+a+time+%F0%9F%94%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=60&lines=Frontend+Engineer+%40+Razorpay+%F0%9F%94%A5;Shipped+to+millions+of+users+%F0%9F%9A%80;Design+Systems+%7C+Microfrontends+%7C+Performance;1000%2B+DSA+Problems+Solved+%E2%9A%A1;Amazon+ML+Summer+School+2024+%F0%9F%8E%AF;Building+the+future%2C+one+PR+at+a+time+%F0%9F%94%A8" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -22,10 +22,7 @@
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/yuvrajsinghnain03/">
-    <img src="https://img.shields.io/badge/LeetCode-500%2B-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-  </a>
-  <a href="https://www.codechef.com/users/yuvraj2495">
-    <img src="https://img.shields.io/badge/CodeChef-3%E2%AD%90-%235B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-1000%2B-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
   <a href="https://twitter.com/yuvrajsinghnain">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
@@ -59,9 +56,7 @@
 
 &nbsp;&nbsp;🌱 &nbsp;Currently mastering **Go** + **AI Engineering** (LLMs, RAG, MCP, Agents)
 
-&nbsp;&nbsp;🎯 &nbsp;**GSoC 2026 applicant** — targeting Metaflow UI 2.0 (React · TS · D3.js)
-
-&nbsp;&nbsp;🏆 &nbsp;**Amazon ML Summer School 2024** · 500+ DSA problems · Multiple hackathon wins
+&nbsp;&nbsp;🏆 &nbsp;**Amazon ML Summer School 2024** · 1000+ DSA problems · Multiple hackathon wins
 
 &nbsp;&nbsp;💬 &nbsp;Ask me about **Design Systems, React performance, Microfrontends**
 
@@ -145,13 +140,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajinbhakti&theme=tokyo-night&bg_color=0d1117&color=00b4d8&line=0077b6&point=48cae4&area=true&area_color=00b4d820&hide_border=true&custom_title=Contribution%20Graph"/>
 </div>
 
-<!-- SNAKE ANIMATION -->
+<!-- SNAKE ANIMATION - add workflow file to enable: .github/workflows/snake.yml -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvrajinbhakti/yuvrajinbhakti/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvrajinbhakti/yuvrajinbhakti/output/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/yuvrajinbhakti/yuvrajinbhakti/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%"/>
 </div>
 
 ---
@@ -159,7 +150,7 @@
 ## 🏆 &nbsp;Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuvrajinbhakti&theme=tokyonight&no-frame=true&column=7&margin-w=8&no-bg=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yuvrajinbhakti&theme=tokyonight&no-frame=true&column=4&row=2&margin-w=12&margin-h=12&no-bg=true"/>
 </div>
 
 ---
@@ -263,8 +254,8 @@
       </td>
       <td align="center" width="25%">
         <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="120"/><br/>
-        <strong>GSoC 2026</strong><br/>
-        <sub>Metaflow UI 2.0</sub>
+        <strong>System Design</strong><br/>
+        <sub>Scalable Architecture</sub>
       </td>
       <td align="center" width="25%">
         <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="120"/><br/>
@@ -285,9 +276,9 @@
 
 <div align="center">
 
-🏢 **Frontend Engineer @ Razorpay** &emsp;·&emsp; 🎯 **Amazon ML Summer School 2024** &emsp;·&emsp; 💻 **500+ DSA Problems**
+🏢 **Frontend Engineer @ Razorpay** &emsp;·&emsp; 🎯 **Amazon ML Summer School 2024** &emsp;·&emsp; 💻 **1000+ DSA Problems**
 
-🏆 **Multiple National Hackathon Top Finishes** &emsp;·&emsp; ⭐ **CodeChef 3 Star** &emsp;·&emsp; 🌐 **GSoC 2026 Applicant**
+🏆 **Multiple National Hackathon Top Finishes** &emsp;·&emsp; ⚡ **Performance Engineering at Scale** &emsp;·&emsp; 🧩 **Design System Contributor**
 
 </div>
 
