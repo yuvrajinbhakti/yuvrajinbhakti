@@ -148,10 +148,7 @@
 ## 🏆 &nbsp;Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuvrajinbhakti&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S"/>
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuvrajinbhakti&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10&rank=AAA,AA,A,B"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yuvrajinbhakti&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
 </div>
 
 ---
