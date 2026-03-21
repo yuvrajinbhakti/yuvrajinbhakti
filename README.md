@@ -44,26 +44,36 @@
 ---
 
 <!-- ABOUT ME -->
-<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ### 💫 &nbsp;About Me
 
-<table border="0">
-<tr>
-<td>🔭</td>
-<td><strong>Frontend Engineer @ Razorpay</strong> — India's leading fintech, $7.5B valuation</td>
-</tr>
-<tr><td>🧩</td><td>Shipped production components to <strong>Blade</strong> — Razorpay's React design system used across all products</td></tr>
-<tr><td>🏗️</td><td>Architected <strong>microfrontend</strong> systems enabling independent team deployments at scale</td></tr>
-<tr><td>🏎️</td><td>Delivered significant <strong>JS bundle size reduction</strong> — faster payment flows for millions of users</td></tr>
-<tr><td>🔬</td><td>Built <strong>A/B testing infra</strong> that eliminated redundant API calls company-wide</td></tr>
-<tr><td>🌱</td><td>Currently mastering <strong>Go</strong> + <strong>AI Engineering</strong> — LLMs, RAG, MCP, Agents</td></tr>
-<tr><td>🏆</td><td><strong>Amazon ML Summer School 2024</strong> &nbsp;·&nbsp; 1000+ DSA Problems &nbsp;·&nbsp; Multiple Hackathon Wins</td></tr>
-<tr><td>💬</td><td>Ask me about <strong>Design Systems, React Performance, Microfrontends, Frontend Architecture</strong></td></tr>
-<tr><td>📫</td><td>Reach me at <strong>yuvrajsinghnain03@gmail.com</strong></td></tr>
-</table>
+🔭 &nbsp;**Frontend Engineer @ Razorpay** — India's leading fintech, $7.5B valuation
 
-<br clear="right"/>
+🧩 &nbsp;Shipped production components to **Blade** — Razorpay's React design system used across all products
+
+🏗️ &nbsp;Architected **microfrontend** systems enabling independent team deployments at scale
+
+🏎️ &nbsp;Delivered significant **JS bundle size reduction** — faster payment flows for millions of users
+
+🔬 &nbsp;Built **A/B testing infra** that eliminated redundant API calls company-wide
+
+🌱 &nbsp;Currently mastering **Go** + **AI Engineering** — LLMs, RAG, MCP, Agents
+
+🏆 &nbsp;**Amazon ML Summer School 2024** &nbsp;·&nbsp; 1000+ DSA Problems &nbsp;·&nbsp; Multiple Hackathon Wins
+
+💬 &nbsp;Ask me about **Design Systems, React Performance, Microfrontends**
+
+📫 &nbsp;**yuvrajsinghnain03@gmail.com**
+
+</td>
+<td valign="center" width="40%">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
