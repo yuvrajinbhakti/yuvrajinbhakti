@@ -240,7 +240,91 @@
 
 ---
 
-## 🎯 &nbsp;Current Focus
+## 🌟 &nbsp;Professional Journey
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&height=40&lines=From+intern+to+full-time+engineer+at+Razorpay;Shipping+to+millions+of+users+since+2024;Every+line+of+code+serves+a+purpose" alt="Journey Typing" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <th align="center">🗓️ Period</th>
+      <th align="center">🏢 Role</th>
+      <th align="center">⚡ Key Impact</th>
+      <th align="center">🛠️ Stack</th>
+    </tr>
+    <tr>
+      <td align="center"><b>Jul 2025 – Present</b></td>
+      <td align="center">Frontend Engineer<br/><b>@ Razorpay</b></td>
+      <td>Microfrontend architecture · Bundle optimization · Data sync dashboards · A/B testing infra</td>
+      <td align="center">React · TypeScript · Node.js · Docker · K8s</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Jul 2024 – Jul 2025</b></td>
+      <td align="center">Frontend Intern<br/><b>@ Razorpay</b></td>
+      <td>Blade design system contributions · Component library development · Production deployments</td>
+      <td align="center">React · TypeScript · Storybook</td>
+    </tr>
+    <tr>
+      <td align="center"><b>2024</b></td>
+      <td align="center">🎯 Amazon ML<br/><b>Summer School</b></td>
+      <td>Selected nationally — ML foundations, deep learning, applied AI</td>
+      <td align="center">Python · ML · Deep Learning</td>
+    </tr>
+    <tr>
+      <td align="center"><b>2021 – 2025</b></td>
+      <td align="center">B.E. Computer Science<br/><b>Chitkara University</b></td>
+      <td>Strong CGPA · Hackathon wins · 1000+ DSA problems · Competitive programming</td>
+      <td align="center">C++ · Python · DSA · CP</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 💡 &nbsp;What I Bring to the Table
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h4>🏗️ Architecture Thinking</h4>
+        <p>I don't just build features — I think in systems. At Razorpay, I designed microfrontend architecture that lets multiple teams ship independently without stepping on each other. I approach every problem asking: <em>how does this scale?</em></p>
+      </td>
+      <td width="50%" valign="top">
+        <h4>🏎️ Performance Obsession</h4>
+        <p>Bundle size, render performance, API efficiency — I measure everything. Delivered meaningful JS bundle reduction in production. Built A/B experiments that caught and eliminated redundant API calls at scale.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h4>🧩 Design System Expertise</h4>
+        <p>Contributed to <strong>Blade</strong> — Razorpay's React + TypeScript design system used across every product. I know what it means to build components that are token-based, accessible, and trusted by dozens of teams.</p>
+      </td>
+      <td width="50%" valign="top">
+        <h4>🔬 Data-Driven Development</h4>
+        <p>I ship with metrics, not intuition. Built A/B testing infrastructure and data sync dashboards so engineering decisions are backed by real numbers — not guesswork.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h4>⚡ Competitive Problem Solving</h4>
+        <p>1000+ DSA problems solved. Amazon ML Summer School 2024 selectee. Multiple national hackathon wins. I bring sharp algorithmic thinking to every technical challenge.</p>
+      </td>
+      <td width="50%" valign="top">
+        <h4>📈 Continuous Growth</h4>
+        <p>Actively learning Go, AI Engineering (LLMs, RAG, MCP, Agents), and contributing to open source. I don't wait to be upskilled — I do it proactively and ship proof.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+
 
 <div align="center">
   <table>
