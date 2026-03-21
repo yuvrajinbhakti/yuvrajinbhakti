@@ -143,6 +143,14 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajinbhakti&theme=tokyo-night&bg_color=0d1117&color=00b4d8&line=0077b6&point=48cae4&area=true&hide_border=true&custom_title=Contribution%20Graph"/>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvrajinbhakti/yuvrajinbhakti/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvrajinbhakti/yuvrajinbhakti/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/yuvrajinbhakti/yuvrajinbhakti/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
 ---
 
 ## 🏆 &nbsp;Trophies
