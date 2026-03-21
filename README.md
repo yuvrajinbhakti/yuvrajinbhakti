@@ -1,291 +1,213 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&color=%2300D4FF&center=true&vCenter=true&width=900&height=90&lines=Yuvraj+Singh+Nain;Frontend+Engineer+%40+Razorpay;Design+Systems+%7C+Microfrontends+%7C+Performance;Open+to+High-Impact+Remote+Roles" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/yuvraj-singh-nain-76715921b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:yuvrajsinghnain03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://twitter.com/yuvrajsinghnain">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://leetcode.com/yuvrajsinghnain03/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-  <a href="https://www.codechef.com/users/yuvraj2495">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
-  </a>
-  <a href="https://youtube.com/@ProCoderBaba">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0077b6,100:00b4d8&height=200&section=header&text=Yuvraj%20Singh%20Nain&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%40%20Razorpay%20%7C%20Design%20Systems%20%7C%20Open%20to%20Remote&descAlignY=58&descSize=16&descColor=90e0ef&animation=fadeIn" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuvrajinbhakti&label=Profile%20views&color=00b4d8&style=for-the-badge" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/yuvrajinbhakti?label=Followers&style=for-the-badge&color=00b4d8" alt="GitHub followers">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Remote%20Roles-brightgreen?style=for-the-badge" alt="Status">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvraj-singh-nain-76715921b)
+  [![Gmail](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yuvrajsinghnain03@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Live-00b4d8?style=flat-square&logo=vercel&logoColor=white)](https://yuvraj-portfolio-reimagined.vercel.app/)
+  [![YouTube](https://img.shields.io/badge/Pro%20Coder%20Baba-Subscribe-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@ProCoderBaba)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-500%2B-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/yuvrajsinghnain03/)
+
 </div>
 
 <br>
 
 ---
 
-## 👋 Who I Am
+## `$ whoami`
 
-```typescript
-const yuvraj = {
-  role:    "Frontend Engineer @ Razorpay",
-  focus:   ["Design Systems", "Microfrontend Architecture", "Performance Engineering"],
-  stack:   ["React", "TypeScript", "Node.js", "Go", "Docker", "Kubernetes"],
+```
+Frontend Engineer with production experience at Razorpay — one of India's largest fintech platforms.
+I build design systems, architect microfrontends, and obsess over performance at scale.
 
-  impact: {
-    designSystem:      "Shipped components for Blade — Razorpay's React design system used across all products",
-    bundleOptimization:"Reduced JS bundle size significantly, directly improving load times at scale",
-    microfrontends:    "Architected and shipped microfrontend modules in a production payment platform",
-    dataDriven:        "Built data sync dashboards & eliminated unnecessary API calls via A/B testing",
-  },
-
-  openTo: ["Remote SDE roles", "Frontend / Full-Stack", "Design System engineering"],
-  currently: "Learning Go · Exploring AI engineering · Building in public",
-};
+Currently: Full-time @ Razorpay · Learning Go · Targeting GSoC 2026 (Metaflow UI 2.0)
+Open to:   Remote SDE roles · Design System Eng · Frontend Platform · Full-Stack product teams
 ```
 
 ---
 
-## ⚡ Real Impact @ Razorpay
+## 📌 What I've Actually Shipped
 
-> I don't just ship features — I ship things that matter at scale.
+> Real work. Real scale. No fluff.
 
-<div align="center">
+<table>
+<tr>
+<td>
 
-| What I Built | Why It Mattered |
-|---|---|
-| 🧩 **Blade Design System** | Contributed production-ready React + TypeScript components used across Razorpay's entire suite |
-| 🏎️ **Bundle Size Optimization** | Reduced JS bundle size significantly — faster load times for millions of payment transactions |
-| 🏗️ **Microfrontend Architecture** | Designed and delivered modular microfrontend system enabling independent deployments at scale |
-| 📊 **Data Sync Dashboards** | Built real-time dashboards for internal monitoring used across engineering teams |
-| 🔬 **A/B Testing Infrastructure** | Ran experiments that eliminated redundant API calls, reducing server load and improving UX |
+### 🧩 Blade Design System
+Contributed production React + TypeScript components to Razorpay's internal design system — used across **every product** in the Razorpay ecosystem. Token-based theming, accessibility-first, Storybook documented.
 
-</div>
+</td>
+<td>
 
----
+### 🏎️ Bundle Size Optimization
+Diagnosed and eliminated dead code, lazy-loaded heavy routes, and restructured imports. Delivered a **significant JS bundle reduction** — every KB matters when you're serving payment flows to millions.
 
-## 🛠️ Tech Stack
+</td>
+</tr>
+<tr>
+<td>
 
-<div align="center">
+### 🏗️ Microfrontend Architecture
+Designed and shipped a modular microfrontend system enabling **independent team deployments** — no more merge bottlenecks. Built the module federation config, shared state contracts, and dev tooling from scratch.
 
-#### Core
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</td>
+<td>
 
-#### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
+### 🔬 A/B Testing & API Hygiene
+Ran experiments via internal A/B infrastructure that identified and eliminated redundant API calls across multiple user flows — reduced server load and measurably improved page responsiveness.
 
-#### Backend & Data
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-#### DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3>🌐 Real-time Collaborative Code Editor</h3>
-        <a href="https://real-time-code-editor-codebuddy.onrender.com/">
-          <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400" alt="Code Editor"/>
-        </a>
-        <br><br>
-        <p><strong>Multi-user coding platform with live sync & execution</strong></p>
-        <p>⚙️ Real-time collaboration via Socket.io rooms</p>
-        <p>⚙️ Multi-language execution engine</p>
-        <p>⚙️ Syntax highlighting, auto-complete</p>
-        <br>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-      </td>
-      <td width="50%" align="center">
-        <h3>🤖 Career OS — AI-Powered Career Suite</h3>
-        <img src="https://user-images.githubusercontent.com/74038190/219923506-96a5d430-9810-4c09-b448-6f21a5d6d8dd.gif" width="400" alt="Career OS"/>
-        <br><br>
-        <p><strong>AI-powered tools for job seekers — resume analysis, cover letters & more</strong></p>
-        <p>⚙️ Claude AI integration for resume scoring</p>
-        <p>⚙️ ATS compatibility checker</p>
-        <p>⚙️ Single-page tool suite, zero backend</p>
-        <br>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
-        <img src="https://img.shields.io/badge/Anthropic-412991?style=flat-square&logo=anthropic&logoColor=white">
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <h3>🔐 Parallel File Encryptor</h3>
-        <img src="https://user-images.githubusercontent.com/74038190/219923684-aba2eff4-cb83-4d5d-a043-2b3b05ad6b7c.gif" width="400" alt="Encryption"/>
-        <br><br>
-        <p><strong>High-throughput AES-256 encryption engine in C++</strong></p>
-        <p>⚙️ Multi-threaded for maximum CPU utilization</p>
-        <p>⚙️ Batch processing with progress tracking</p>
-        <p>⚙️ Cross-platform, zero-dependency core</p>
-        <br>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-        <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white">
-        <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white">
-      </td>
-      <td width="50%" align="center">
-        <h3>💼 Portfolio — v2</h3>
-        <a href="https://yuvraj-portfolio-reimagined.vercel.app/">
-          <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="400" alt="Portfolio"/>
-        </a>
-        <br><br>
-        <p><strong>Interactive, animated developer portfolio</strong></p>
-        <p>⚙️ Three.js 3D animations & custom shaders</p>
-        <p>⚙️ 100/100 Lighthouse score</p>
-        <p>⚙️ Responsive, accessible, production-deployed</p>
-        <br>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white">
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yuvrajinbhakti&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Yuvraj's GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajinbhakti&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajinbhakti&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajinbhakti&theme=tokyo-night&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuvrajinbhakti&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+## 🛠 Stack
 
 <div align="center">
 
-| 🏅 Achievement | 📋 Details |
+| Layer | Technologies |
 |:---|:---|
-| 🏢 **Frontend Engineer @ Razorpay** | Full-time since July 2025, internship from July 2024 |
-| 🎯 **Amazon ML Summer School 2024** | Selected among top applicants nationwide |
-| 🧩 **Design System Contributor** | Production contributions to Blade, Razorpay's React component library |
-| 💻 **500+ Problems Solved** | LeetCode + CodeChef combined — consistent algorithmic thinking |
-| 🏆 **Hackathon Placements** | Multiple top-finish placements in national-level competitions |
-| 📹 **Pro Coder Baba** | YouTube channel teaching DSA & web dev to thousands of developers |
-| 🌐 **GSoC 2026 Applicant** | Targeting Metaflow UI 2.0 — open source at Netflix/Outerbounds |
+| **Languages** | TypeScript · JavaScript · Go · Python · C++ |
+| **Frontend** | React · Next.js · Tailwind CSS · D3.js · Three.js |
+| **Backend** | Node.js · Express · GraphQL · REST |
+| **Databases** | PostgreSQL · MongoDB · Redis · Firebase |
+| **DevOps** | Docker · Kubernetes · GitHub Actions · AWS · Vercel |
+| **Practices** | Design Systems · Microfrontends · Performance Engineering · A/B Testing |
 
 </div>
 
 ---
 
-## 📹 Beyond the Code — Pro Coder Baba
+## 🚀 Selected Projects
 
-> I teach what I practice. Running a YouTube channel that breaks down DSA, system design, and web development for developers who want to get hired at top companies.
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Real-time Code Editor
+Collaborative coding platform with live multi-user sync, multi-language execution, and room-based sessions.
+
+**Stack:** React · Socket.io · Node.js · Monaco Editor
+
+🔗 [Live Demo](https://real-time-code-editor-codebuddy.onrender.com/)
+
+</td>
+<td width="50%">
+
+### 🤖 Career OS
+AI-powered career tool suite — resume scoring, ATS analysis, cover letter generator. Built with Claude API, zero backend required.
+
+**Stack:** React · TypeScript · Anthropic API
+
+🔗 *Deploying soon*
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 Parallel File Encryptor
+High-throughput multi-threaded AES-256 file encryption engine. Built for performance benchmarking across CPU cores.
+
+**Stack:** C++ · OpenSSL · CMake · POSIX Threads
+
+</td>
+<td width="50%">
+
+### 💼 Portfolio v2
+Animated personal portfolio with Three.js scenes, custom shaders, and smooth page transitions. Optimized for Lighthouse 100.
+
+**Stack:** Next.js · TypeScript · Three.js · Framer Motion
+
+🔗 [Live](https://yuvraj-portfolio-reimagined.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=yuvrajinbhakti&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajinbhakti&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+</div>
+
+<div align="center">
+  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajinbhakti&theme=tokyonight&hide_border=true&background=0D1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajinbhakti&theme=tokyo-night&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🏅 Recognition
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yuvrajinbhakti&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+</div>
+
+<br>
+
+<div align="center">
+
+🏢 **Frontend Engineer @ Razorpay** &nbsp;·&nbsp;
+🎯 **Amazon ML Summer School 2024** &nbsp;·&nbsp;
+🏆 **Multiple Hackathon Top Finishes** &nbsp;·&nbsp;
+💻 **500+ DSA Problems** &nbsp;·&nbsp;
+📹 **Pro Coder Baba — YouTube Educator**
+
+</div>
+
+---
+
+## 📹 Pro Coder Baba
+
+I run a YouTube channel breaking down **DSA, system design, and web dev** for developers targeting top product companies. Teaching forces depth — if you can explain it clearly, you truly understand it.
+
+> This is why remote teams can trust I communicate well async.
 
 <div align="center">
   <a href="https://youtube.com/@ProCoderBaba">
-    <img src="https://img.shields.io/badge/Subscribe%20to%20Pro%20Coder%20Baba-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel">
+    <img src="https://img.shields.io/badge/Pro%20Coder%20Baba-Watch%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
 
-The channel is proof that I understand concepts deeply enough to teach them — and communication is something remote teams care about.
-
 ---
 
-## 🎯 Currently Building
+## 🌍 Why Remote?
 
-```
-📌 GSoC 2026 — Metaflow UI 2.0 (React · TypeScript · D3.js visualization layer)
-📌 Go learning track — systems-level programming, building CLI tools
-📌 AI engineering — LLMs, RAG, MCP, multi-agent systems
-📌 Open source contributions — actively looking for meaningful PRs
+```yaml
+timezone:      IST (UTC+5:30) — async-friendly, flexible overlap
+communication: Clear writer, over-communicator by habit (YouTube channel is proof)
+work-style:    Outcome-driven, independent, documentation-first
+availability:  Open to full-time remote — global teams welcome
 ```
 
 ---
 
-## 🌐 Open to Remote Opportunities
+## 🤝 Reach Out
 
-I'm actively looking for **remote-first or globally distributed** engineering roles where I can make a real impact.
-
-<div align="center">
-
-| I'm a strong fit for... | Because... |
-|:---|:---|
-| 🧩 **Design Systems / Component Libraries** | Shipped for Blade at Razorpay scale |
-| 🏎️ **Performance Engineering** | Bundle optimization, A/B testing, API reduction in production |
-| 🏗️ **Frontend Platform / Infra** | Microfrontend architecture, modular system design |
-| 🌐 **Full-Stack Product Engineering** | End-to-end ownership from React to Node to Docker |
-
-</div>
-
-> 💬 **Timezone**: India (IST/UTC+5:30) — comfortable with async communication and global team collaboration.
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to a conversation — whether it's a role, an open source project, or just trading notes on frontend architecture.
+Whether you have a role, a collab, or just want to talk frontend architecture — I'm easy to reach.
 
 <div align="center">
-  <a href="mailto:yuvrajsinghnain03@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/yuvraj-singh-nain-76715921b">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://yuvraj-portfolio-reimagined.vercel.app/">
-    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
+
+[![Email](https://img.shields.io/badge/yuvrajsinghnain03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajsinghnain03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fyuvraj--singh--nain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvraj-singh-nain-76715921b)
+
 </div>
 
 <br>
 
----
-
 <div align="center">
-  <i>"Build things that ship. Measure things that matter. Teach everything you learn."</i>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&color=%2300D4FF&center=true&vCenter=true&width=700&height=40&lines=Frontend+Engineer+%40+Razorpay+%7C+Open+to+Remote+%7C+Let's+build+something+great" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:0d1117&height=120&section=footer&text=Let%27s%20build%20something%20great&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 </div>
