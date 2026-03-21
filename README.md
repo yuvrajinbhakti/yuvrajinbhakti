@@ -1,11 +1,11 @@
-<!-- HEADER -->
+<!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:03045e,25:023e8a,50:0077b6,75:0096c7,100:00b4d8&height=280&section=header&text=Yuvraj%20Singh%20Nain&fontSize=68&fontColor=ffffff&fontAlignY=45&desc=Frontend%20Engineer%20%40%20Razorpay%20%E2%80%A2%20Design%20Systems%20%E2%80%A2%20Performance%20At%20Scale&descSize=18&descColor=ade8f4&descAlignY=65&animation=twinkling&stroke=48cae4&strokeWidth=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:03045e,25:023e8a,50:0077b6,75:0096c7,100:00b4d8&height=280&section=header&text=Yuvraj%20Singh%20Nain&fontSize=68&fontColor=ffffff&fontAlignY=45&desc=Frontend%20Engineer%20%40%20Razorpay%20%E2%80%A2%20Design%20Systems%20%E2%80%A2%20Performance%20At%20Scale&descSize=18&descColor=ade8f4&descAlignY=65&animation=twinkling&stroke=48cae4&strokeWidth=3" />
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=60&lines=Frontend+Engineer+%40+Razorpay+%F0%9F%94%A5;Shipped+to+millions+of+users+%F0%9F%9A%80;Design+Systems+%7C+Microfrontends+%7C+Performance;1000%2B+DSA+Problems+Solved+%E2%9A%A1;Amazon+ML+Summer+School+2024+%F0%9F%8E%AF;Building+the+future%2C+one+PR+at+a+time+%F0%9F%94%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&repeat=true&width=620&height=60&lines=Frontend+Engineer+%40+Razorpay+%F0%9F%94%A5;Shipped+to+millions+of+users+%F0%9F%9A%80;Design+Systems+%7C+Microfrontends+%7C+Performance;1000%2B+DSA+Problems+Solved+%E2%9A%A1;Amazon+ML+Summer+School+2024+%F0%9F%8E%AF;Building+the+future%2C+one+PR+at+a+time+%F0%9F%94%A8" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -14,16 +14,16 @@
 <div align="center">
   <a href="https://linkedin.com/in/yuvraj-singh-nain-76715921b">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  </a>&nbsp;
   <a href="mailto:yuvrajsinghnain03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  </a>&nbsp;
   <a href="https://yuvraj-portfolio-reimagined.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  </a>&nbsp;
   <a href="https://leetcode.com/yuvrajsinghnain03/">
     <img src="https://img.shields.io/badge/LeetCode-1000%2B-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-  </a>
+  </a>&nbsp;
   <a href="https://twitter.com/yuvrajsinghnain">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
@@ -32,14 +32,18 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuvrajinbhakti&label=Profile+Views&color=00b4d8&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=yuvrajinbhakti&label=Profile+Views&color=00b4d8&style=for-the-badge"/>
+  &nbsp;
   <img src="https://img.shields.io/github/followers/yuvrajinbhakti?label=Followers&style=for-the-badge&color=00b4d8"/>
-  <img src="https://img.shields.io/badge/%20%20Actively%20Shipping-Razorpay-blueviolet?style=for-the-badge&logo=react"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Actively%20Shipping%20%40%20Razorpay-brightgreen?style=for-the-badge&logo=react"/>
 </div>
+
+<br/>
 
 ---
 
-<!-- ABOUT ME with right-side GIF -->
+<!-- ABOUT ME -->
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 💫 &nbsp;About Me
@@ -50,9 +54,9 @@
 
 &nbsp;&nbsp;🏗️ &nbsp;Architected **microfrontend** systems for independent team deploys
 
-&nbsp;&nbsp;🏎️ &nbsp;Delivered meaningful **JS bundle reduction** in production at scale
+&nbsp;&nbsp;🏎️ &nbsp;Delivered significant **JS bundle reduction** in production at scale
 
-&nbsp;&nbsp;🔬 &nbsp;Built **A/B testing infra** that killed redundant API calls company-wide
+&nbsp;&nbsp;🔬 &nbsp;Built **A/B testing infra** that eliminated redundant API calls company-wide
 
 &nbsp;&nbsp;🌱 &nbsp;Currently mastering **Go** + **AI Engineering** (LLMs, RAG, MCP, Agents)
 
@@ -66,7 +70,7 @@
 
 ---
 
-<!-- ANIMATED DIVIDER -->
+<!-- DIVIDER -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
@@ -79,25 +83,24 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,go,python,cpp,c&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=ts,js,go,python,cpp,c&theme=dark"/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css,sass,redux&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css,sass,redux&theme=dark"/>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,redis,firebase&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,redis,firebase&theme=dark"/>
 
 **DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,vercel,git,vscode,linux&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,vercel,git,vscode,linux&theme=dark"/>
 
 </div>
 
 ---
 
-<!-- RAZORPAY IMPACT -->
 ## ⚡ &nbsp;Impact @ Razorpay
 
 <div align="center">
@@ -109,16 +112,16 @@
 |  | What I Shipped | Why It Mattered |
 |:---:|:---|:---|
 | 🧩 | **Blade Design System** | React + TS components powering every Razorpay product — token-based, a11y-first, Storybook documented |
-| 🏎️ | **Bundle Size Optimization** | Meaningful JS payload reduction — faster payment flows for millions of users |
-| 🏗️ | **Microfrontend Architecture** | Module federation setup enabling independent deployments — zero merge conflicts between teams |
+| 🏎️ | **Bundle Size Optimization** | Significant JS payload reduction — faster payment flows for millions of users |
+| 🏗️ | **Microfrontend Architecture** | Module federation enabling independent team deployments — zero merge conflicts |
 | 📊 | **Data Sync Dashboards** | Real-time monitoring dashboards adopted across multiple engineering teams |
-| 🔬 | **A/B Testing & API Hygiene** | Eliminated redundant API calls — reduced server load, improved responsiveness at scale |
+| 🔬 | **A/B Testing & API Hygiene** | Eliminated redundant API calls — reduced server load, improved UX at scale |
 
 </div>
 
 ---
 
-<!-- ANIMATED DIVIDER -->
+<!-- DIVIDER -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
@@ -128,25 +131,16 @@
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=yuvrajinbhakti&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true&custom_title=Yuvraj%27s%20GitHub%20Stats"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajinbhakti&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&langs_count=10&custom_title=Most%20Used%20Languages"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=yuvrajinbhakti&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true&custom_title=Yuvraj%27s%20GitHub%20Stats"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajinbhakti&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&langs_count=10&custom_title=Most%20Used%20Languages"/>
 </div>
 
 <div align="center">
-  <img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajinbhakti&theme=tokyonight&hide_border=true&background=0D1117&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=c9d1d9"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajinbhakti&theme=tokyonight&hide_border=true&background=0D1117&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajinbhakti&theme=tokyo-night&bg_color=0d1117&color=00b4d8&line=0077b6&point=48cae4&area=true&area_color=00b4d820&hide_border=true&custom_title=Contribution%20Graph"/>
-</div>
-
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvrajinbhakti/yuvrajinbhakti/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvrajinbhakti/yuvrajinbhakti/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/yuvrajinbhakti/yuvrajinbhakti/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajinbhakti&theme=tokyo-night&bg_color=0d1117&color=00b4d8&line=0077b6&point=48cae4&area=true&hide_border=true&custom_title=Contribution%20Graph"/>
 </div>
 
 ---
@@ -160,8 +154,6 @@
 ---
 
 ## 🚀 &nbsp;Featured Projects
-
-
 
 <div align="center">
   <table>
@@ -180,7 +172,7 @@
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
           <br/><br/>
           <a href="https://real-time-code-editor-codebuddy.onrender.com/">
-            <img src="https://img.shields.io/badge/🔗 Live Demo-00b4d8?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/%F0%9F%94%97%20Live%20Demo-00b4d8?style=for-the-badge"/>
           </a>
         </div>
       </td>
@@ -198,7 +190,7 @@
           <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
           <br/><br/>
           <a href="https://yuvraj-portfolio-reimagined.vercel.app/">
-            <img src="https://img.shields.io/badge/🔗 Live Site-00b4d8?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/%F0%9F%94%97%20Live%20Site-00b4d8?style=for-the-badge"/>
           </a>
         </div>
       </td>
@@ -213,7 +205,7 @@
           <br/>
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Claude%20API-412991?style=flat-square&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Claude%20API-412991?style=flat-square&logo=anthropic&logoColor=white"/>
         </div>
       </td>
       <td width="50%">
@@ -234,7 +226,7 @@
 
 ---
 
-<!-- ANIMATED DIVIDER -->
+<!-- DIVIDER -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
@@ -282,7 +274,7 @@
 
 🏢 **Frontend Engineer @ Razorpay** &emsp;·&emsp; 🎯 **Amazon ML Summer School 2024** &emsp;·&emsp; 💻 **1000+ DSA Problems**
 
-🏆 **Multiple National Hackathon Top Finishes** &emsp;·&emsp; ⚡ **Performance Engineering at Scale** &emsp;·&emsp; 🧩 **Design System Contributor**
+🏆 **Multiple National Hackathon Top Finishes** &emsp;·&emsp; 🧩 **Design System Contributor** &emsp;·&emsp; ⚡ **Performance Engineering at Scale**
 
 </div>
 
@@ -302,7 +294,6 @@
 </div>
 
 <div align="center">
-
   <a href="mailto:yuvrajsinghnain03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-yuvrajsinghnain03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -314,7 +305,6 @@
   <a href="https://yuvraj-portfolio-reimagined.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-See%20My%20Work-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-
 </div>
 
 <br/>
