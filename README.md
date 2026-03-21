@@ -140,9 +140,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajinbhakti&theme=tokyo-night&bg_color=0d1117&color=00b4d8&line=0077b6&point=48cae4&area=true&area_color=00b4d820&hide_border=true&custom_title=Contribution%20Graph"/>
 </div>
 
-<!-- SNAKE ANIMATION - add workflow file to enable: .github/workflows/snake.yml -->
+<!-- SNAKE ANIMATION -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvrajinbhakti/yuvrajinbhakti/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvrajinbhakti/yuvrajinbhakti/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/yuvrajinbhakti/yuvrajinbhakti/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
 </div>
 
 ---
@@ -150,7 +154,7 @@
 ## 🏆 &nbsp;Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuvrajinbhakti&theme=tokyonight&no-frame=true&column=4&row=2&margin-w=12&margin-h=12&no-bg=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yuvrajinbhakti&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 </div>
 
 ---
