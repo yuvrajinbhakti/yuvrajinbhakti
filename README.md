@@ -1,245 +1,246 @@
+<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:03045e,30:0077b6,60:00b4d8,100:90e0ef&height=300&section=header&text=Yuvraj%20Singh%20Nain&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Frontend%20Engineer%20%E2%80%A2%20Razorpay%20%E2%80%A2%20Design%20Systems%20%E2%80%A2%20Performance%20at%20Scale&descSize=17&descColor=caf0f8&descAlignY=65&animation=twinkling&stroke=00b4d8&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:03045e,25:023e8a,50:0077b6,75:0096c7,100:00b4d8&height=280&section=header&text=Yuvraj%20Singh%20Nain&fontSize=68&fontColor=ffffff&fontAlignY=45&desc=Frontend%20Engineer%20%40%20Razorpay%20%E2%80%A2%20Design%20Systems%20%E2%80%A2%20Performance%20At%20Scale&descSize=18&descColor=ade8f4&descAlignY=65&animation=twinkling&stroke=48cae4&strokeWidth=3"/>
 </div>
 
-<br>
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Frontend+Engineer+%40+Razorpay+%F0%9F%94%A5;Shipped+to+millions+of+users+%F0%9F%9A%80;Design+Systems+%7C+Microfrontends+%7C+DX;500%2B+DSA+Problems+Solved+%E2%9A%A1;Amazon+ML+Summer+School+2024+%F0%9F%8E%AF;GSoC+2026+%E2%86%92+Metaflow+UI+2.0+%F0%9F%8C%B1;Building+the+future%2C+one+PR+at+a+time+%F0%9F%94%A8" alt="Typing SVG" />
+</div>
 
+<br/>
+
+<!-- SOCIAL BADGES -->
 <div align="center">
   <a href="https://linkedin.com/in/yuvraj-singh-nain-76715921b">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="mailto:yuvrajsinghnain03@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://yuvraj-portfolio-reimagined.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://leetcode.com/yuvrajsinghnain03/">
-    <img src="https://img.shields.io/badge/-LeetCode%20500%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-500%2B-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
-  &nbsp;
+  <a href="https://www.codechef.com/users/yuvraj2495">
+    <img src="https://img.shields.io/badge/CodeChef-3%E2%AD%90-%235B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/>
+  </a>
   <a href="https://twitter.com/yuvrajsinghnain">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuvrajinbhakti&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/yuvrajinbhakti?style=for-the-badge&color=00b4d8&label=FOLLOWERS"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/OPEN%20SOURCE-GSoC%202026%20Applicant-brightgreen?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=yuvrajinbhakti&label=Profile+Views&color=00b4d8&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/yuvrajinbhakti?label=Followers&style=for-the-badge&color=00b4d8"/>
+  <img src="https://img.shields.io/badge/%20%20Actively%20Shipping-Razorpay-blueviolet?style=for-the-badge&logo=react"/>
 </div>
-
-<br>
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" />
+<!-- ABOUT ME with right-side GIF -->
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### `> about --me`
+### 💫 &nbsp;About Me
 
-```typescript
-const yuvraj = {
-  role:    "Frontend Engineer",
-  company: "Razorpay",          // India's leading fintech, $7.5B valuation
+&nbsp;&nbsp;🔭 &nbsp;**Frontend Engineer @ Razorpay** — India's leading fintech, $7.5B valuation
 
-  shipped: [
-    "Blade Design System",       // React + TS components across all Razorpay products
-    "Microfrontend Architecture", // Module federation, independent team deploys
-    "Bundle Optimization",        // Significant JS size reduction in prod
-    "A/B Testing Infrastructure", // Eliminated redundant API calls at scale
-    "Data Sync Dashboards",       // Real-time internal tooling
-  ],
+&nbsp;&nbsp;🧩 &nbsp;Shipped components to **Blade** — Razorpay's React design system
 
-  building: ["Go", "AI/LLM Engineering", "GSoC 2026 → Metaflow UI 2.0"],
-  solving:  "Hard frontend problems that affect millions of users",
-};
-```
+&nbsp;&nbsp;🏗️ &nbsp;Architected **microfrontend** systems for independent team deploys
+
+&nbsp;&nbsp;🏎️ &nbsp;Delivered meaningful **JS bundle reduction** in production at scale
+
+&nbsp;&nbsp;🔬 &nbsp;Built **A/B testing infra** that killed redundant API calls company-wide
+
+&nbsp;&nbsp;🌱 &nbsp;Currently mastering **Go** + **AI Engineering** (LLMs, RAG, MCP, Agents)
+
+&nbsp;&nbsp;🎯 &nbsp;**GSoC 2026 applicant** — targeting Metaflow UI 2.0 (React · TS · D3.js)
+
+&nbsp;&nbsp;🏆 &nbsp;**Amazon ML Summer School 2024** · 500+ DSA problems · Multiple hackathon wins
+
+&nbsp;&nbsp;💬 &nbsp;Ask me about **Design Systems, React performance, Microfrontends**
+
+&nbsp;&nbsp;📫 &nbsp;Reach me: **yuvrajsinghnain03@gmail.com**
 
 <br clear="right"/>
 
 ---
 
-## ⚡ Production Impact @ Razorpay
-
+<!-- ANIMATED DIVIDER -->
 <div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   🧩  Blade Design System                                       │
-│       React + TypeScript component library · Used across        │
-│       every Razorpay product · Token-based · A11y-first         │
-│                                                                 │
-│   🏎️  Bundle Size Optimization                                  │
-│       Diagnosed dead code · Lazy-loaded heavy routes            │
-│       Significant reduction in production JS payload             │
-│                                                                 │
-│   🏗️  Microfrontend Architecture                               │
-│       Module federation · Shared state contracts                │
-│       Independent team deployments with zero conflicts          │
-│                                                                 │
-│   🔬  A/B Testing & Performance                                 │
-│       Eliminated redundant API calls · Reduced server load      │
-│       Measurable UX improvement across core payment flows       │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-**Core**
+**Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=ts,js,go,python,cpp,c&theme=dark&perline=8"/>
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css,sass,redux&theme=dark&perline=8"/>
 
-**Backend & Data**
+**Backend & Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,redis,firebase&theme=dark&perline=8"/>
 
-**DevOps & Infra**
+**DevOps & Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,vercel,git,vscode,linux&theme=dark&perline=8"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+<!-- RAZORPAY IMPACT -->
+## ⚡ &nbsp;Impact @ Razorpay
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yuvrajinbhakti&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajinbhakti&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500"/>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajinbhakti&theme=tokyonight&hide_border=true&background=0D1117&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=00b4d8" />
+
+|  | What I Shipped | Why It Mattered |
+|:---:|:---|:---|
+| 🧩 | **Blade Design System** | React + TS components powering every Razorpay product — token-based, a11y-first, Storybook documented |
+| 🏎️ | **Bundle Size Optimization** | Meaningful JS payload reduction — faster payment flows for millions of users |
+| 🏗️ | **Microfrontend Architecture** | Module federation setup enabling independent deployments — zero merge conflicts between teams |
+| 📊 | **Data Sync Dashboards** | Real-time monitoring dashboards adopted across multiple engineering teams |
+| 🔬 | **A/B Testing & API Hygiene** | Eliminated redundant API calls — reduced server load, improved responsiveness at scale |
+
+</div>
+
+---
+
+<!-- ANIMATED DIVIDER -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</div>
+
+---
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=yuvrajinbhakti&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true&custom_title=Yuvraj%27s%20GitHub%20Stats"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajinbhakti&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&langs_count=10&custom_title=Most%20Used%20Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajinbhakti&theme=tokyo-night&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&area_color=00b4d820&hide_border=true" />
+  <img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajinbhakti&theme=tokyonight&hide_border=true&background=0D1117&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=c9d1d9"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajinbhakti&theme=tokyo-night&bg_color=0d1117&color=00b4d8&line=0077b6&point=48cae4&area=true&area_color=00b4d820&hide_border=true&custom_title=Contribution%20Graph"/>
+</div>
+
+<!-- SNAKE ANIMATION -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvrajinbhakti/yuvrajinbhakti/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvrajinbhakti/yuvrajinbhakti/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/yuvrajinbhakti/yuvrajinbhakti/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuvrajinbhakti/yuvrajinbhakti/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuvrajinbhakti/yuvrajinbhakti/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/yuvrajinbhakti/yuvrajinbhakti/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
 
 ---
 
-## 🏆 Trophies & Recognition
+## 🏆 &nbsp;Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuvrajinbhakti&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8&no-bg=true" />
-</div>
-
-<br>
-
-<div align="center">
-
-| 🏅 | Recognition |
-|:---:|:---|
-| 🏢 | **Frontend Engineer @ Razorpay** — Production scale, millions of users |
-| 🎯 | **Amazon ML Summer School 2024** — Selected nationally |
-| 🏆 | **Multiple Hackathon Top Finishes** — Competing & winning nationally |
-| 💻 | **500+ DSA Problems** — LeetCode + CodeChef · 3⭐ CodeChef |
-| 🌐 | **GSoC 2026 Applicant** — Metaflow UI 2.0 (React · TypeScript · D3.js) |
-
+  <img src="https://github-profile-trophy.vercel.app/?username=yuvrajinbhakti&theme=tokyonight&no-frame=true&column=7&margin-w=8&no-bg=true"/>
 </div>
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 &nbsp;Featured Projects
+
+<div align="center">
+  <a href="https://real-time-code-editor-codebuddy.onrender.com/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajinbhakti&repo=realtime-code-editor&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117"/>
+  </a>
+  <a href="https://yuvraj-portfolio-reimagined.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvrajinbhakti&repo=portfolio&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&bg_color=0d1117"/>
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
         <h3 align="center">🌐 Real-time Collaborative Code Editor</h3>
-        <p align="center">
-          <a href="https://real-time-code-editor-codebuddy.onrender.com/">
-            <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%" />
+        <div align="center">
+          <a href="https://real-time-code-editor-codebuddy.onrender.com/" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Code Editor" width="100%"/>
           </a>
-        </p>
-        <p>Multi-user coding environment with live cursor sync, room-based sessions, multi-language execution engine, and real-time output streaming.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        </p>
-        <p align="center"><a href="https://real-time-code-editor-codebuddy.onrender.com/"><strong>→ Live Demo</strong></a></p>
+          <br/><br/>
+          <p>Multi-user coding platform · live cursor sync · multi-language execution engine · room-based sessions · real-time output streaming</p>
+          <br/>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+          <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+          <br/><br/>
+          <a href="https://real-time-code-editor-codebuddy.onrender.com/">
+            <img src="https://img.shields.io/badge/🔗 Live Demo-00b4d8?style=for-the-badge"/>
+          </a>
+        </div>
       </td>
       <td width="50%">
         <h3 align="center">💼 Portfolio v2 — Three.js Edition</h3>
-        <p align="center">
-          <a href="https://yuvraj-portfolio-reimagined.vercel.app/">
-            <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="100%" />
+        <div align="center">
+          <a href="https://yuvraj-portfolio-reimagined.vercel.app/" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Portfolio" width="100%"/>
           </a>
-        </p>
-        <p>Animated personal portfolio with custom Three.js scenes, GLSL shaders, scroll-driven animations, and Lighthouse-optimized performance.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
-        </p>
-        <p align="center"><a href="https://yuvraj-portfolio-reimagined.vercel.app/"><strong>→ Live Site</strong></a></p>
+          <br/><br/>
+          <p>Custom Three.js scenes · GLSL shaders · scroll-driven animations · Lighthouse optimized · Framer Motion transitions</p>
+          <br/>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+          <br/><br/>
+          <a href="https://yuvraj-portfolio-reimagined.vercel.app/">
+            <img src="https://img.shields.io/badge/🔗 Live Site-00b4d8?style=for-the-badge"/>
+          </a>
+        </div>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">🤖 Career OS — AI-Powered Career Suite</h3>
-        <p align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/219923506-96a5d430-9810-4c09-b448-6f21a5d6d8dd.gif" width="100%" />
-        </p>
-        <p>AI-powered tool suite for job seekers — resume ATS scoring, cover letter generation, and interview prep. Built on the Anthropic API with zero backend infrastructure.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/Claude%20API-412991?style=flat-square&logo=anthropic&logoColor=white" />
-        </p>
+        <h3 align="center">🤖 Career OS — AI Career Suite</h3>
+        <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/219923506-96a5d430-9810-4c09-b448-6f21a5d6d8dd.gif" alt="Career OS" width="100%"/>
+          <br/><br/>
+          <p>AI-powered resume ATS scoring · cover letter generator · interview prep — built on Anthropic Claude API with zero backend infra</p>
+          <br/>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Claude%20API-412991?style=flat-square&logoColor=white"/>
+        </div>
       </td>
       <td width="50%">
         <h3 align="center">🔐 Parallel File Encryptor</h3>
-        <p align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/219923684-aba2eff4-cb83-4d5d-a043-2b3b05ad6b7c.gif" width="100%" />
-        </p>
-        <p>High-throughput AES-256 file encryption engine exploiting multi-core parallelism. Batch processing with progress tracking and cross-platform compatibility.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-          <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white" />
-          <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
-        </p>
+        <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/219923684-aba2eff4-cb83-4d5d-a043-2b3b05ad6b7c.gif" alt="Encryptor" width="100%"/>
+          <br/><br/>
+          <p>AES-256 multi-threaded file encryption engine · full CPU core utilization · batch processing · cross-platform zero-dependency core</p>
+          <br/>
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white"/>
+          <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white"/>
+        </div>
       </td>
     </tr>
   </table>
@@ -247,39 +248,92 @@ const yuvraj = {
 
 ---
 
-## 🧭 Currently
-
-```
-📐  Designing the visualization layer for Metaflow UI 2.0 (GSoC 2026 proposal)
-⚙️  Learning Go — building CLI tools, exploring systems programming
-🔬  Studying AI engineering — LLMs, RAG pipelines, MCP, multi-agent systems
-🌱  Contributing to open source — seeking high-signal PRs in the JS/TS ecosystem
-```
-
----
-
+<!-- ANIMATED DIVIDER -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20function%20of%20good%20software%20is%20to%20make%20the%20complex%20appear%20simple.&author=Grady%20Booch" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
 
 ---
 
+## 🎯 &nbsp;Current Focus
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120"/><br/>
+        <strong>Go & Systems</strong><br/>
+        <sub>Building CLI tools</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif" width="120"/><br/>
+        <strong>AI Engineering</strong><br/>
+        <sub>LLMs · RAG · MCP · Agents</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="120"/><br/>
+        <strong>GSoC 2026</strong><br/>
+        <sub>Metaflow UI 2.0</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="120"/><br/>
+        <strong>Open Source</strong><br/>
+        <sub>High-signal PRs</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🏅 &nbsp;Achievements
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d1a87.gif" width="250"/>
+</div>
+
 <div align="center">
 
-  **Let's connect and build something that matters.**
+🏢 **Frontend Engineer @ Razorpay** &emsp;·&emsp; 🎯 **Amazon ML Summer School 2024** &emsp;·&emsp; 💻 **500+ DSA Problems**
+
+🏆 **Multiple National Hackathon Top Finishes** &emsp;·&emsp; ⭐ **CodeChef 3 Star** &emsp;·&emsp; 🌐 **GSoC 2026 Applicant**
+
+</div>
+
+---
+
+<!-- QUOTE -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson"/>
+</div>
+
+---
+
+## 🤝 &nbsp;Let's Build Together
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="180"/>
+</div>
+
+<div align="center">
 
   <a href="mailto:yuvrajsinghnain03@gmail.com">
-    <img src="https://img.shields.io/badge/yuvrajsinghnain03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-yuvrajsinghnain03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
+  <br/><br/>
   <a href="https://linkedin.com/in/yuvraj-singh-nain-76715921b">
-    <img src="https://img.shields.io/badge/linkedin.com%2Fin%2Fyuvraj--singh--nain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <br/><br/>
+  <a href="https://yuvraj-portfolio-reimagined.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-See%20My%20Work-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
 </div>
 
-<br>
+<br/>
 
+<!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:90e0ef,50:0077b6,100:03045e&height=130&section=footer&text=Code%20with%20purpose.%20Ship%20with%20precision.&fontSize=18&fontColor=ffffff&fontAlignY=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,40:0096c7,70:0077b6,100:03045e&height=150&section=footer&text=Code%20with%20purpose.%20Ship%20with%20precision.&fontSize=20&fontColor=ffffff&fontAlignY=68&animation=fadeIn"/>
 </div>
