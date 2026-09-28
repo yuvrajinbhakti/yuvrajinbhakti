@@ -1,11 +1,11 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,50:0077b6,100:00b4d8&height=230&section=header&text=Yuvraj%20Singh%20Nain&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=Frontend%20Engineer%20%40%20Razorpay%20%E2%80%A2%20Design%20Systems%20%E2%80%A2%20Performance%20At%20Scale&descSize=18&descColor=90e0ef&descAlignY=65&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,50:0077b6,100:00b4d8&height=230&section=header&text=Yuvraj%20Singh%20Nain&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%40%20Razorpay%20%E2%80%A2%20Data%20Platforms%20%E2%80%A2%20Microfrontends&descSize=18&descColor=90e0ef&descAlignY=65&animation=fadeIn" />
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&repeat=true&width=850&height=50&lines=Frontend+Engineer+%40+Razorpay+%F0%9F%94%A5;Shipped+to+millions+of+users+%F0%9F%9A%80;Design+Systems+%7C+Microfrontends+%7C+Performance;1000%2B+DSA+Problems+Solved+%E2%9A%A1;Amazon+ML+Summer+School+2024+%F0%9F%8E%AF;Building+the+future%2C+one+PR+at+a+time+%F0%9F%94%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&repeat=true&width=850&height=50&lines=Software+Engineer+%40+Razorpay;Data+%26+reporting+platform+%E2%80%94+15K%2B+merchants+across+IN+%2F+US+%2F+SG;Microfrontends+%C2%B7+Kafka+%C2%B7+Encrypted+delivery;Author+of+ot-core+%E2%80%94+420%2C000+edit+pairs%2C+zero+divergences;I'd+rather+know+why+it+broke+than+that+it+works" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -21,22 +21,12 @@
   <a href="https://yuvraj-portfolio-reimagined.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://leetcode.com/yuvrajsinghnain03/">
-    <img src="https://img.shields.io/badge/LeetCode-1000%2B-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+  <a href="https://www.npmjs.com/package/ot-core">
+    <img src="https://img.shields.io/badge/npm-ot--core-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
   </a>&nbsp;
   <a href="https://twitter.com/yuvrajsinghnain">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuvrajinbhakti&label=Profile+Views&color=00b4d8&style=for-the-badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/yuvrajinbhakti?label=Followers&style=for-the-badge&color=00b4d8"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Actively%20Shipping%20%40%20Razorpay-brightgreen?style=for-the-badge&logo=react"/>
 </div>
 
 <br/>
@@ -50,21 +40,21 @@
 
 ### 💫 &nbsp;About Me
 
-🔭 &nbsp;**Frontend Engineer @ Razorpay** — India's leading fintech, $7.5B valuation
+🔭 &nbsp;**Software Engineer @ Razorpay** — I work on the data and reporting platform: scheduled reports, warehouse syncs, encrypted delivery
 
-🧩 &nbsp;Shipped production components to **Blade** — Razorpay's React design system used across all products
+🌍 &nbsp;Used by **15K+ merchants** across India, the US and Singapore
 
-🏗️ &nbsp;Architected **microfrontend** systems enabling independent team deployments at scale
+🏗️ &nbsp;Wrote the spec and ran the rollout for our **microfrontend platform** — evaluated Module Federation against iframes and Web Components; 3+ teams now deploy independently
 
-🏎️ &nbsp;Delivered significant **JS bundle size reduction** — faster payment flows for millions of users
+🔌 &nbsp;Led Reporting's move **off the API monolith** — 31 routes to Edge, 4.5% of all Reporting traffic at launch
 
-🔬 &nbsp;Built **A/B testing infra** that eliminated redundant API calls company-wide
+🔐 &nbsp;Shipped **AES-256/PGP delivery** with maker-checker approval under SOC 2 and PCI-DSS
 
-🌱 &nbsp;Currently mastering **Go** + **AI Engineering** — LLMs, RAG, MCP, Agents
+🧪 &nbsp;Took our E2E suite from a **~8% pass rate to 80%+** by root-causing failures instead of retrying them
 
-🏆 &nbsp;**Amazon ML Summer School 2024** &nbsp;·&nbsp; 1000+ DSA Problems &nbsp;·&nbsp; Multiple Hackathon Wins
+🌱 &nbsp;Currently learning **Go** and AI engineering — LLMs, RAG, MCP, agents
 
-💬 &nbsp;Ask me about **Design Systems, React Performance, Microfrontends**
+💬 &nbsp;Ask me about **microfrontends, data platforms, or why a passing test suite isn't the same as a correct one**
 
 📫 &nbsp;**yuvrajsinghnain03@gmail.com**
 
@@ -77,7 +67,6 @@
 
 ---
 
-<!-- DIVIDER -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
@@ -90,81 +79,85 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,go,python,cpp,c&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp&theme=dark"/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css,sass,redux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,threejs,html,css&theme=dark"/>
 
-**Backend & Databases**
+**Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,redis,firebase&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,kafka&theme=dark"/>
 
-**DevOps & Tools**
+**Tooling**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,vercel,git,vscode,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,linux,vercel&theme=dark"/>
+
+<sub><i>Listed only where I've shipped something. Go and Kubernetes are on the learning pile, not this one.</i></sub>
 
 </div>
 
 ---
 
-## ⚡ &nbsp;Impact @ Razorpay
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500"/>
-</div>
+## ⚡ &nbsp;Work at Razorpay
 
 <div align="center">
 
-|  | What I Shipped | Why It Mattered |
+|  | What I shipped | Why it mattered |
 |:---:|:---|:---|
-| 🧩 | **Blade Design System** | React + TS components powering every Razorpay product — token-based, a11y-first, Storybook documented |
-| 🏎️ | **Bundle Size Optimization** | Significant JS payload reduction — faster payment flows for millions of users |
-| 🏗️ | **Microfrontend Architecture** | Module federation enabling independent team deployments — zero merge conflicts |
-| 📊 | **Data Sync Dashboards** | Real-time monitoring dashboards adopted across multiple engineering teams |
-| 🔬 | **A/B Testing & API Hygiene** | Eliminated redundant API calls — reduced server load, improved UX at scale |
+| 🏗️ | **Microfrontend platform** | Module Federation, spec through rollout — 3+ teams deploy independently, merge conflicts down 40% |
+| 🔌 | **API decomposition** | 31 Reporting routes off the monolith onto Edge; 98% of the V1→V2 schedule migration; 4.5% of Reporting traffic at launch |
+| 📊 | **Self-serve data delivery** | Merchants onboard themselves to Redshift, BigQuery, Snowflake and Kafka instead of filing a ticket |
+| ⚙️ | **Kafka / CDC provisioning UI** | Guided flow for topic creation, Ranger policies and Debezium CDC — engineer setup from 2 weeks to 24 hours |
+| 🚀 | **Looker → React migration** | 1,400+ legacy reports; load time 8.5s → 3.1s; third-party licensing eliminated |
+| 🔐 | **Encrypted report delivery** | AES-256/PGP, maker-checker approval, dry-run validation, audit trail — SOC 2 and PCI-DSS |
+| 🧪 | **Test reliability** | E2E pass rate ~8% → 80%+ (90%+ on master); Blade migration raised component coverage 50% → 95% |
+| 🔁 | **Airflow v2 → v3** | 64-DAG warehouse estate migrated with no data gaps |
 
 </div>
 
 ---
 
-<!-- DIVIDER -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
 
 ---
 
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=yuvrajinbhakti&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true&custom_title=Yuvraj%27s%20GitHub%20Stats"/>
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajinbhakti&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&langs_count=10&custom_title=Most%20Used%20Languages"/>
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajinbhakti&theme=tokyonight&hide_border=true&background=0D1117&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajinbhakti&theme=tokyo-night&bg_color=0d1117&color=00b4d8&line=0077b6&point=48cae4&area=true&hide_border=true&custom_title=Contribution%20Graph"/>
-</div>
-
----
-
-## 🚀 &nbsp;Featured Projects
+## 🚀 &nbsp;Projects
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
+        <h3 align="center">🧬 ot-core</h3>
+        <div align="center">
+          <a href="https://yuvrajinbhakti.github.io/ot-core/visualizer/" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="ot-core" width="100%"/>
+          </a>
+          <br/><br/>
+          <p>Operational Transform for plain text. I'd built a collaborative editor that handled 10,000 ops/sec and looked healthy — then fuzzed it and found <b>16.2% of concurrent edit pairs silently diverged</b>. I'd been testing capacity, not correctness. Rewrote it with server-side rebasing: <b>420,000 pairs, zero divergences</b>, 169 tests, zero dependencies.</p>
+          <br/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+          <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+          <br/><br/>
+          <a href="https://yuvrajinbhakti.github.io/ot-core/visualizer/">
+            <img src="https://img.shields.io/badge/%F0%9F%94%97%20Watch%20it%20converge-00b4d8?style=for-the-badge"/>
+          </a>
+          <a href="https://github.com/yuvrajinbhakti/ot-core">
+            <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </div>
+      </td>
+      <td width="50%">
         <h3 align="center">🌐 Real-time Collaborative Code Editor</h3>
         <div align="center">
           <a href="https://real-time-code-editor-codebuddy.onrender.com/" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Code Editor" width="100%"/>
+            <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Code Editor" width="100%"/>
           </a>
           <br/><br/>
-          <p>Multi-user coding platform · live cursor sync · multi-language execution engine · room-based sessions · real-time output streaming</p>
+          <p>The editor ot-core came out of. Multi-user sessions, live cursor sync, multi-language execution, room-based collaboration, real-time output streaming.</p>
           <br/>
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
           <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
@@ -175,14 +168,32 @@
           </a>
         </div>
       </td>
+    </tr>
+    <tr>
       <td width="50%">
-        <h3 align="center">💼 Portfolio v2 — Three.js Edition</h3>
+        <h3 align="center">🔐 Parallel File Encryptor</h3>
+        <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/219923684-aba2eff4-cb83-4d5d-a043-2b3b05ad6b7c.gif" alt="Encryptor" width="100%"/>
+          <br/><br/>
+          <p>AES-256 multi-threaded file encryption in C++. Saturates available cores, batch processing, cross-platform core with no runtime dependencies.</p>
+          <br/>
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white"/>
+          <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white"/>
+          <br/><br/>
+          <a href="https://github.com/yuvrajinbhakti/Parallel-File-Encryptor-in-C-">
+            <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">💼 Portfolio — Three.js Edition</h3>
         <div align="center">
           <a href="https://yuvraj-portfolio-reimagined.vercel.app/" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Portfolio" width="100%"/>
+            <img src="https://user-images.githubusercontent.com/74038190/219923506-96a5d430-9810-4c09-b448-6f21a5d6d8dd.gif" alt="Portfolio" width="100%"/>
           </a>
           <br/><br/>
-          <p>Custom Three.js scenes · GLSL shaders · scroll-driven animations · Lighthouse optimized · Framer Motion transitions</p>
+          <p>Custom Three.js scenes, GLSL shaders, scroll-driven animation, Framer Motion transitions. Built mostly to find out how far I could push the browser.</p>
           <br/>
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
@@ -194,121 +205,78 @@
         </div>
       </td>
     </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🤖 Career OS — AI Career Suite</h3>
-        <div align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/219923506-96a5d430-9810-4c09-b448-6f21a5d6d8dd.gif" alt="Career OS" width="100%"/>
-          <br/><br/>
-          <p>AI-powered resume ATS scoring · cover letter generator · interview prep — built on Anthropic Claude API with zero backend infra</p>
-          <br/>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Claude%20API-412991?style=flat-square&logo=anthropic&logoColor=white"/>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🔐 Parallel File Encryptor</h3>
-        <div align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/219923684-aba2eff4-cb83-4d5d-a043-2b3b05ad6b7c.gif" alt="Encryptor" width="100%"/>
-          <br/><br/>
-          <p>AES-256 multi-threaded file encryption engine · full CPU core utilization · batch processing · cross-platform zero-dependency core</p>
-          <br/>
-          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-          <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white"/>
-          <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white"/>
-        </div>
-      </td>
-    </tr>
   </table>
 </div>
 
 ---
 
-<!-- DIVIDER -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
 
 ---
 
-## 🌟 &nbsp;Professional Journey
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&height=40&lines=From+intern+to+full-time+engineer+at+Razorpay;Shipping+to+millions+of+users+since+2024;Every+line+of+code+serves+a+purpose" alt="Journey Typing" />
-</div>
-
-<br/>
+## 🌟 &nbsp;Journey
 
 <div align="center">
   <table>
     <tr>
       <th align="center">🗓️ Period</th>
       <th align="center">🏢 Role</th>
-      <th align="center">⚡ Key Impact</th>
+      <th align="center">⚡ Focus</th>
       <th align="center">🛠️ Stack</th>
     </tr>
     <tr>
       <td align="center"><b>Jul 2025 – Present</b></td>
-      <td align="center">Frontend Engineer<br/><b>@ Razorpay</b></td>
-      <td>Microfrontend architecture · Bundle optimization · Data sync dashboards · A/B testing infra</td>
-      <td align="center">React · TypeScript · Node.js · Docker · K8s</td>
+      <td align="center">Software Engineer<br/><b>@ Razorpay</b></td>
+      <td>Microfrontend platform · API decomposition · encrypted delivery · test reliability · Airflow migration</td>
+      <td align="center">React · TypeScript · Node.js · Kafka</td>
     </tr>
     <tr>
       <td align="center"><b>Jul 2024 – Jul 2025</b></td>
-      <td align="center">Frontend Intern<br/><b>@ Razorpay</b></td>
-      <td>Blade design system contributions · Component library development · Production deployments</td>
-      <td align="center">React · TypeScript · Storybook</td>
+      <td align="center">Frontend Engineering Intern<br/><b>@ Razorpay</b></td>
+      <td>Looker → React migration · Kafka/CDC onboarding UI · transaction analytics · A/B framework</td>
+      <td align="center">React · TypeScript · React Query · Blade</td>
     </tr>
     <tr>
       <td align="center"><b>2024</b></td>
       <td align="center">🎯 Amazon ML<br/><b>Summer School</b></td>
-      <td>Selected nationally — ML foundations, deep learning, applied AI</td>
-      <td align="center">Python · ML · Deep Learning</td>
+      <td>Selected participant — ML foundations, deep learning, applied AI</td>
+      <td align="center">Python · ML</td>
     </tr>
     <tr>
       <td align="center"><b>2021 – 2025</b></td>
       <td align="center">B.E. Computer Science<br/><b>Chitkara University</b></td>
-      <td>Strong CGPA · Hackathon wins · 1000+ DSA problems · Competitive programming</td>
-      <td align="center">C++ · Python · DSA · CP</td>
+      <td>CGPA 9.24 · hackathon finalist (RBI Top 30, Adobe top 5%) · 1000+ DSA problems</td>
+      <td align="center">C++ · Python · DSA</td>
     </tr>
   </table>
 </div>
 
 ---
 
-## 💡 &nbsp;What I Bring to the Table
+## 💡 &nbsp;How I Work
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h4>🏗️ Architecture Thinking</h4>
-        <p>I don't just build features — I think in systems. At Razorpay, I designed microfrontend architecture that lets multiple teams ship independently without stepping on each other. I approach every problem asking: <em>how does this scale?</em></p>
+        <h4>🏗️ I write the spec before the code</h4>
+        <p>The microfrontend platform started as a tech spec weighing Module Federation against iframes and Web Components. Naming the alternatives you rejected is most of the argument.</p>
       </td>
       <td width="50%" valign="top">
-        <h4>🏎️ Performance Obsession</h4>
-        <p>Bundle size, render performance, API efficiency — I measure everything. Delivered meaningful JS bundle reduction in production. Built A/B experiments that caught and eliminated redundant API calls at scale.</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h4>🧩 Design System Expertise</h4>
-        <p>Contributed to <strong>Blade</strong> — Razorpay's React + TypeScript design system used across every product. I know what it means to build components that are token-based, accessible, and trusted by dozens of teams.</p>
-      </td>
-      <td width="50%" valign="top">
-        <h4>🔬 Data-Driven Development</h4>
-        <p>I ship with metrics, not intuition. Built A/B testing infrastructure and data sync dashboards so engineering decisions are backed by real numbers — not guesswork.</p>
+        <h4>🔬 Capacity is not correctness</h4>
+        <p>My collaborative editor passed every load test and still lost 16% of concurrent edits. ot-core's suite now carries a deliberately broken transform as a control — it diverges 47% of the time, which is how I know the harness catches failure rather than just passing.</p>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h4>⚡ Competitive Problem Solving</h4>
-        <p>1000+ DSA problems solved. Amazon ML Summer School 2024 selectee. Multiple national hackathon wins. I bring sharp algorithmic thinking to every technical challenge.</p>
+        <h4>🧩 The interesting part is rarely the UI</h4>
+        <p>Owning a product surface in a data org means schema migrations, timezone correctness across three regions, and what a warehouse sync does when it half-fails. Frontend is where I'm deepest; it's not where I spend most of my time.</p>
       </td>
       <td width="50%" valign="top">
-        <h4>📈 Continuous Growth</h4>
-        <p>Actively learning Go, AI Engineering (LLMs, RAG, MCP, Agents), and contributing to open source. I don't wait to be upskilled — I do it proactively and ship proof.</p>
+        <h4>🚩 I chase flakes instead of retrying them</h4>
+        <p>Our E2E suite sat at an ~8% pass rate. Retrying would have been faster. Root-causing got it past 80% and made a post-rollback redeploy to every region safe.</p>
       </td>
     </tr>
   </table>
@@ -316,61 +284,7 @@
 
 ---
 
-
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120"/><br/>
-        <strong>Go & Systems</strong><br/>
-        <sub>Building CLI tools</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif" width="120"/><br/>
-        <strong>AI Engineering</strong><br/>
-        <sub>LLMs · RAG · MCP · Agents</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="120"/><br/>
-        <strong>System Design</strong><br/>
-        <sub>Scalable Architecture</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="120"/><br/>
-        <strong>Open Source</strong><br/>
-        <sub>High-signal PRs</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🏅 &nbsp;Achievements
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d1a87.gif" width="250"/>
-</div>
-
-<div align="center">
-
-🏢 **Frontend Engineer @ Razorpay** &emsp;·&emsp; 🎯 **Amazon ML Summer School 2024** &emsp;·&emsp; 💻 **1000+ DSA Problems**
-
-🏆 **Multiple National Hackathon Top Finishes** &emsp;·&emsp; 🧩 **Design System Contributor** &emsp;·&emsp; ⚡ **Performance Engineering at Scale**
-
-</div>
-
----
-
-<!-- QUOTE -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson"/>
-</div>
-
----
-
-## 🤝 &nbsp;Let's Build Together
+## 🤝 &nbsp;Get in touch
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="180"/>
@@ -382,11 +296,11 @@
   </a>
   <br/><br/>
   <a href="https://linkedin.com/in/yuvraj-singh-nain-76715921b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <br/><br/>
   <a href="https://yuvraj-portfolio-reimagined.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-See%20My%20Work-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-See%20my%20work-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </div>
 
@@ -394,5 +308,5 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,40:0096c7,70:0077b6,100:03045e&height=150&section=footer&text=Code%20with%20purpose.%20Ship%20with%20precision.&fontSize=20&fontColor=ffffff&fontAlignY=68&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,40:0096c7,70:0077b6,100:03045e&height=150&section=footer&text=I'd%20rather%20know%20why%20it%20broke%20than%20that%20it%20works.&fontSize=20&fontColor=ffffff&fontAlignY=68&animation=fadeIn"/>
 </div>
